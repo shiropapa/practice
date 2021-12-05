@@ -1,7 +1,7 @@
 # .gitignore
 # ディレクトリ名は、末尾に"/"を付けて指定します
 # laravelプロジェクト
-shiropapa/
+# shiropapa/
 
 # IntelliJ
 .idea/
